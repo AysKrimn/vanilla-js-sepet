@@ -1,0 +1,32 @@
+[
+
+    {
+        "id": 1,
+        "name": "Athena",
+        "icon": "./materials/athena.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Replika",
+        "icon": "./materials/falem.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Eagle",
+        "icon":"./materials/eag.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Vampire",
+        "icon":"./materials/silver.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Wolf",
+        "icon":"./materials/wolf.jpg"
+    }
+]
